@@ -93,4 +93,4 @@ for persona in personasACalcular:
     print(f"IMC: {imc:.2f} → {categoria}")
     print(f"Peso recomendado según IMC normal (18.5-24.9): {peso_min:.1f} kg - {peso_max:.1f} kg")
 
-print("\n¡Gracias por usar la Calculadora de IMC! 👋")
+print("\n¡Gracias por usar la Calculadora de IMC!")
